@@ -76,9 +76,3 @@ EscapeRoomGame/
 ├── document_puzzle.py    # Puzzle: torn document
 └── wardrobe_puzzle.py    # Puzzle: hidden key
 ```
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
