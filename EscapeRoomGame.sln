@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37027.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "EscapeRoomGame", "EscapeRoomGame.pyproj", "{D153A4F7-6A69-41CF-A30F-43EF0D5C7DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D153A4F7-6A69-41CF-A30F-43EF0D5C7DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D153A4F7-6A69-41CF-A30F-43EF0D5C7DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A4A9A12-5493-43A4-B191-850ADA6021F1}
+	EndGlobalSection
+EndGlobal
