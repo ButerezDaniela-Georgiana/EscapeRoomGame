@@ -34,21 +34,6 @@ Built a reactive UI layer with a real-time progress tracker, contextual interact
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Python 3.8+
-- Pygame
-
-### Installation
-
-```bash
-git clone https://github.com/your-username/EscapeRoomGame.git
-cd EscapeRoomGame
-pip install pygame
-python main.py
-```
-
 ---
 
 ## 🎮 Controls
